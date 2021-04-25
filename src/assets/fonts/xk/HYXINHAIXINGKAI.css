@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "HYXINHAIXINGKAI";
+    src: url("HYXINHAIXINGKAI.eot"); /* IE9 */
+    src: url("HYXINHAIXINGKAI.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("HYXINHAIXINGKAI.woff") format("woff"), /* chrome、firefox */
+    url("HYXINHAIXINGKAI.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("HYXINHAIXINGKAI.svg#HYXINHAIXINGKAI") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
